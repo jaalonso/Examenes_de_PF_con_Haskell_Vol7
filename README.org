@@ -6,7 +6,7 @@ Matemática]] de la [[http://www.us.es][Universidad de Sevilla]].
 
 Consta de dos directorio:
 + [[Libro]]: con contiene el código LaTeX del libro de exámenes y el
-  [[Libro/Examenes_de_PF_con_Haskell_Vol6.pdf][libro en PDF]].
+  [[Libro/Examenes_de_PF_con_Haskell_Vol7.pdf][libro en PDF]].
 + [[Examenes]]: que contiene el código Haskell de las soluciones de los ejercicios. 
 
 Los exámenes se realizaron en el aula de informática y su duración
